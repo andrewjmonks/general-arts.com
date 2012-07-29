@@ -1,0 +1,101 @@
+html {
+	padding: 0px;
+	background-color: #fff;
+ 	height: 100%; 
+	color: #444444;
+	font-family: "futura-pt", Futura, "Century Gothic", AppleGothic, sans-serif;
+	text-align: center;
+	font-size: 12px;
+	letter-spacing: .08em;
+	line-height: 1.3;
+	margin:0px;
+}
+#email {
+	font-family: "coquette", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+	letter-spacing: .1em;
+}
+#content {
+	padding: 0px;
+	padding-top: 2em;
+	height: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 520px; 
+}
+
+#header {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 2em;
+	width: 100%;
+	font-size: 2em;
+}
+
+#logo {
+	margin-left: auto;
+	line-height: 1.0;
+	margin-right: auto;
+	height: auto;
+	font-size: 2.8em;
+	color: #000000;
+	padding-top: 425px;
+	letter-spacing: .1em;
+	text-transform: uppercase;
+	width: 100%;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-image: url(http://general-arts.com/assets/generalarts.png);
+}
+
+#name {
+	letter-spacing: 0.4em;
+	height: 2em;
+	margin-top: 1em;
+	font-size: 3em;
+	text-transform: uppercase;
+	clear: both;
+	width: 100%;
+}
+
+#footer {
+	margin-top: 5em;
+	clear: both;
+}
+
+a {
+	text-decoration: none;
+	color: #444444;
+}
+
+#social {
+	width: 438px;
+	margin-left: 41px;
+	margin-right: 41px;
+	margin-top: 3em;
+	padding-bottom: 3em;
+	font-size: 1.5em;
+	font-family: "futura-pt", Futura, "Century Gothic", AppleGothic, sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.icon {
+	float: left;
+	padding-left: 37px;
+	padding-right: 37px;
+	width: 72px;
+}
+
+.icon a {
+	height: 64px;
+	width: 72px;
+}
+
+.icon img {
+	padding: 4px;
+	width: 64px;
+	height: 64px;
+	border: 0;
+}
+
